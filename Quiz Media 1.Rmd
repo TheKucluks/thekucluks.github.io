@@ -1,0 +1,128 @@
+---
+title: "Quiz Media PHET"
+output: learnr::tutorial
+runtime: shiny_prerendered
+---
+
+```{r setup, include=FALSE}
+library(learnr)
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Quiz
+
+### Alat Bantu 
+
+```{r video-embed, echo=FALSE}
+tags$iframe(src = "https://phet.colorado.edu/sims/html/number-play/latest/number-play_all.html", width = "700", height = "350")
+```
+
+
+### Soal
+
+
+
+
+1. Berikut adalah urutan 4, 2, 8, 6, urutkan bilangan dari yang terbesar hingga terkecil:
+
+   A. 2, 4, 8, 6
+   
+   B. 8, 6, 4, 2
+   
+   C. 8, 2, 4, 6
+   
+   D. 2, 8, 6, 4
+
+2. bagaimana bentuk angka LIMA jika disebutkan ? 
+
+   A. 5
+   
+   B. 2
+   
+   C. 9
+   
+   D. 3
+
+3. Mana jawaban yang benar jika angka 10 jika disebutkan dalam bentuk bilangan?
+
+   A. Tujuh
+   
+   B. Lima
+   
+   C. Sepuluh
+   
+   D. Delapan
+
+4. Di antara angka berikut 5, 6, 9, 10, yang mana yang terbesar?
+
+   A. 10
+   
+   B. 6
+   
+   C. 5
+   
+   D. 9
+
+5. Angka 1, 4, 2, 9 urutkan angka tersebut dari yang terkecil?
+
+   A. 9, 1, 4, 2
+   
+   B. 1, 2, 4, 9
+   
+   C. 1, 4, 2, 9
+   
+   D. 4, 1, 9, 2
+
+6. Angka yang hilang 3, 4,..., 6, 7 jika menurut urutannya adalah?
+
+   A. 4
+   
+   B. 5
+   
+   C. 6
+   
+   D. 7
+
+7. Angka 2 jika disebutkan menjadi bilangan sama dengan?
+
+   A. Dua
+   
+   B. Tiga
+   
+   C. Empat
+   
+   D. Lima
+
+8. 10 Angka tersebut namanya adalah?
+
+   A. Satu
+   
+   B. Sepuluh
+   
+   C. Tujuh
+   
+   D. Lima
+
+9. Angka berapa yang terbesar pada angka disamping 9, 2, 5, 6?
+
+   A. 9
+   
+   B. 5
+   
+   C. 2
+   
+   D. 6
+
+10. Angka yang hilang pada urutan disamping adalah 9, 8,..., 6, 5?
+
+    A. 2
+    
+    B. 4
+    
+    C. 6
+    
+    D. 7
+
+
+
